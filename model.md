@@ -3,15 +3,15 @@ Sendo as perguntas que importam:
 ```json
 {
     "users_quiz" : {
-        "email" : '',
-        "password" : '',
-        "cpf" : '',
-        'birth' : '',
+        "email" : "",
+        "password" : "",
+        "cpf" : "",
+        "birth" : "",
 
-        'phone' : [
-            '5511952053515',
-            '5511952053515',
-            '5511952053515',
+        "phone" : [
+            "5511952053515",
+            "5511952053515",
+            "5511952053515",
         ]
     }
 }
