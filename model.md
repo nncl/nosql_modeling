@@ -40,3 +40,8 @@
 
 - USERS_QUIZ n:n PHONE
 - The questions matters
+
+## References
+
+- [NOMADEV I](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
+- [NOMADEV II](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar-parte-2/)
