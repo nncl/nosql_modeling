@@ -2,10 +2,10 @@ Sendo as perguntas que importam:
 
 ```json
 {
-    'users_quiz' : {
-        'email' : '',
-        'password' : '',
-        'cpf' : '',
+    "users_quiz" : {
+        "email" : '',
+        "password" : '',
+        "cpf" : '',
         'birth' : '',
 
         'phone' : [
